@@ -1,4 +1,3 @@
-
 ## DSA Questions
 - [x] [1D Array](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/)
 
